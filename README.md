@@ -1,1 +1,1 @@
-# NCUE_SMNP
+# NCUE_SNMP
